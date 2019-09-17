@@ -21,6 +21,7 @@ client.on('channelCreate',async channel=>{
 	}
 })
 client.on('guildMemberAdd',async member=>{
+	if(member.user.bot)return
 	const channel=member.guild.channels.find(ch=>ch.id===config.entryChannelID)
 	if(!channel)return
 	channel.send(`**${member.user.tag}** Wbił na Nasz Discord Cieszymy się!`)
@@ -33,6 +34,7 @@ client.on('guildMemberAdd',async member=>{
 	}
 })
 client.on('guildMemberRemove',async member=>{
+	if(member.user.bot)return
 	const channel=member.guild.channels.find(ch=>ch.id===config.exitChannelID)
 	if(!channel)return
 	channel.send(`**${member.user.tag}** Wyszedł z naszego serwera przykro nam :frowning:`)

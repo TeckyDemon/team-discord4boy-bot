@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2019-09-17
+
+### Removed
+
+##### [index.js](index.js)
+
+- Welcome and farewell messages for bots.
+
 ## [1.0.0] - 2019-09-16
 
 ### Added
