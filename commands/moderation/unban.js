@@ -12,11 +12,11 @@ module.exports={
 		message.guild.unban(user).then(()=>{
 			message.channel.send(new RichEmbed()
 				.setColor(0x00FF00)
-				.setTitle(`Użytkownik **${member.user.tag}** został odbanowany.`)
+				.setTitle(`Użytkownik **${user.tag}** został odbanowany.`)
 				.addField('Przez:',message.author.tag)
 			)
 		}).catch((err)=>{
-			message.channel.send(`**${message.author.tag}** nie można odbanować użytkownika **${member.user.tag}**.`)
+			message.channel.send(`**${message.author.tag}** nie można odbanować użytkownika **${user.tag}**.`)
 			console.log(err)
 		})
 	}
