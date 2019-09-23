@@ -17,7 +17,7 @@
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NH8JV53DSVDMY)
 
-**Team Discord4Boy Bot** is Discord bot made for [Team Discord4Boy](https://discord.gg/fjkRnvG) server.
+**Team Discord4Boy Bot** is Discord bot made for Team Discord4Boy server.
 
 ## Content
 
