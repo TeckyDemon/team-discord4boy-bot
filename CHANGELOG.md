@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2019-09-23
+
+### Added
+
+##### [README.md](README.md)
+
+- [Features](https://github.com/DeBos99/team-discord4boy-bot#features) section.
+
 ## [1.0.3] - 2019-09-23
 
 ### Removed

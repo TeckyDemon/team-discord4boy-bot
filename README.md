@@ -22,6 +22,7 @@
 ## Content
 
 - [Content](#content)
+- [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Documentation](#documentation)
@@ -31,6 +32,11 @@
 - [Authors](#authors)
 - [Contact](#contact)
 - [License](#license)
+
+## Features
+
+- Mining system.
+- Database management.
 
 ## Requirements
 
