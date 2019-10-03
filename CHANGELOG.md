@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - 2019-10-03
+
+### Fixed
+
+##### [commands/other/clear.js](commands/other/clear.js)
+
+- Typo.
+
 ## [1.0.4] - 2019-09-23
 
 ### Added
